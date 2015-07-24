@@ -12,8 +12,16 @@ Variable type	        Text
 Allowable values	    walking,walking_upstairs,walking_downstairs,sitting,standing,laying 
 Comments	            variable shown with interpretation
 
-Variable description	described activity
-Variable name	        act description 
+Variable description	subject ID
+Variable name	        subject 
 Variable type	        Text
-Allowable values	    walking,walking_upstairs,walking_downstairs,sitting,standing,laying 
-Comments	            variable shown with interpretation
+Allowable values	    1 thru 30 
+Comments	            there were 30 participants in this study, each of whom engaged all of the six activities which were measured
+
+Variable description	described activity
+Variable name	         tBodyAcc-mean()-X  
+Variable type	        floating
+Allowable values	    value < 1 
+Comments	            this is the mean value of this measurement done on the participant over all the activities
+
+this code book in an actual study would continue for all 86 measurment variables, described using a consistant format.
