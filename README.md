@@ -4,7 +4,8 @@ This script reads four raw data files which once combined contain the following 
     1) the particpant (subject) identification number
     2) the activity number (one of six activities) and the corresponding description
     3) data arising from various measurements made by a Samsung phone which when interpreted describe the activity
-      in the context of positional axis and body position
+      in the context of positional axis and body position.
+      
   The program takes the combined data set and processes it as follows:
     1) specific data measurements of mean and standard deviation are extracted from the general data set
     2) those measurements are then ordered by subject and activity
