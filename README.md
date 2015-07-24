@@ -13,3 +13,5 @@ This script reads four raw data files which once combined contain the following 
     
   Finally, the script uses this data set and creates a second data set which summarizes each of the measured variables by
   activity within a suject and the overall mean of the measured variable.  This final data set is part of the course project submission.
+  
+  The file submission is a .txt file which can be viewed in excel using " as a delimiter.
